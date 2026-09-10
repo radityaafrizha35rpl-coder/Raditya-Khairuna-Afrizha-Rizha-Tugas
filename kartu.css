@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial;
+    background-color: rgb(14, 155, 63);
+}
+
+h1 {
+    text-align: center;
+}
+
+.produk {
+    width: 300px;
+    padding: 15px;
+    border: 2px solid black;
+    margin: 20px auto;
+    background-color: rgb(61, 59, 59);
+}
+
+.produk img {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    height: 50%;
+}

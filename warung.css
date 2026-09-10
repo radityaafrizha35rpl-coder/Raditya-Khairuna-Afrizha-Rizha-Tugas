@@ -1,0 +1,81 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background-color: #fff3d6;
+    text-align: center;
+}
+
+.navbar {
+    background-color: brown;
+    padding: 15px;
+}
+
+.navbar h2 {
+    color: white;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    margin: 10px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: yellow;
+}
+
+.hero {
+    padding: 50px;
+}
+
+h1 {
+    color: brown;
+}
+
+section {
+    padding: 30px;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+}
+
+.menu-card {
+    background-color: white;
+    width: 200px;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 10px;
+
+    /* Efek interaksi */
+    transition: 0.3s;
+}
+
+.logo-menu {
+    font-size: 50px;
+}
+
+.menu-card h3 {
+    color: brown;
+}
+
+.menu-card:hover {
+    background-color: #ffe0b2;
+    transform: scale(1.05);
+}
+
+footer {
+    background-color: brown;
+    color: white;
+    padding: 15px;
+}
