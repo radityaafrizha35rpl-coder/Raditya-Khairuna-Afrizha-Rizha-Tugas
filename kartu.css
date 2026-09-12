@@ -4,7 +4,13 @@
 
 body {
     font-family: Arial;
-    background-color: rgb(14, 155, 63);
+    background-color: yellow;
+}
+
+#h2{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aqua;
 }
 
 h1 {
